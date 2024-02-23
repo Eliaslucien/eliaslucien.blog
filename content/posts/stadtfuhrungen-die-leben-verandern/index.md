@@ -6,9 +6,9 @@ pinned = false
 image = "screenshot-2024-02-23-095751.jpg"
 description = "Vom Adoptivvater geschlagen, vom Drogenkonsum geprägt, nachdem Roger Meier 22 Jahre auf der Gasse gelebt hat, wandte sich seine Lebensgeschichte dank Surprise zum Guten.\n\n"
 +++
-`{{<lead>}}`\
+{{<lead>}}\
 Vom Adoptivvater geschlagen, vom Drogenkonsum geprägt, nachdem Roger Meier 22 Jahre auf der Gasse gelebt hat, wandte sich seine Lebensgeschichte dank Surprise zum Guten.\
-`{{</lead>}}`
+{{</lead>}}
 
 Elias Stamatiadis, Malou Gygax
 
