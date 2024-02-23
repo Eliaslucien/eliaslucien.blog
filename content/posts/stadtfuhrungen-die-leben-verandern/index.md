@@ -44,10 +44,10 @@ Die Vision von Surprise ist eine Schweiz ohne Armut und soziale Ausgrenzung. Mit
 
 Neben dem Strassenmagazin und den Stadtrundgängen gehören auch soziale Aktivitäten zum Angebot von Surprise. Solche sind wichtig, dass die Betroffenen Möglichkeiten erhalten, Anschluss an das gesellschaftliche Leben erhalten und Selbstvertrauen gewinnen. Und schlussendlich nicht mehr am Rand der Gesellschaft sind, sondern wieder integriert sind. Surprise organisiert zum Beispiel die Schweizer Strassenfussball-Liga, an welcher verschiedene Institutionen aus der ganzen Schweiz teilnehmen können. Menschen in schwierigen Lebenslagen erhalten dadurch Struktur und sportlichen Ausgleich. Es gibt sogar eine jährliche Weltmeisterschaft, die  im Jahre 2023 in Sacramento in Kalifornien stattfand. Man muss aber nicht so weit reisen, um in Berührung mit einem sozialen Angebot von Surprise zu kommen. In verschiedenen Restaurants und Cafés in der Deutschschweiz gibt es das Konzept “Café Surprise”. Wie funktioniert das? Ganz einfach, du bestellst einen Kaffee und bezahlst zwei. Dieser spendierte Kaffee wird auf einer Tafel mit einem Strich markiert. Diese Tasse Solidarität kann dann von einer bedürftigen Person konsumiert werden und dadurch am gesellschaftlichen Leben wieder ein wenig teilnehmen. Eine einfache Idee mit grosser Wirkung. Der Besuch eines  “Café Surprise” wäre auch der perfekte Ort, um die gewonnenen Eindrücke des besonderen Stadtrundgangs nachwirken zu lassen. Und wer weiss, vielleicht hat er sogar dein Leben ein wenig verändert.
 
-`{{<box>}}`
+{{<box>}}
 
 **Obdachlose in der Schweiz**
 
 2022 schätzt der Bund, dass schweizweit 2200 Menschen von Obdachlosigkeit betroffen sind und etwa 8000 von Wohnungsverlust bedroht werden. Hierbei gilt es aber zu beachten, dass man nur als obdachlos gilt, wenn man wirklich auf der Strasse schläft, wenn man jedoch z.B. bei Kolleg*innen im Keller oder im Auto wohnt, gilt man offiziell nicht als obdachlos.
 
-`{{</box>}}`
+{{</box>}}
