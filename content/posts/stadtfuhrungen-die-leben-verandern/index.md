@@ -37,6 +37,8 @@ Es ist Freitagmorgen. Vor dem Stadtrundgang bleibt noch etwas Zeit. Die kleine G
 >
 > *Roger Meier*
 
+
+
 ![Roger Meier bei seiner Stadtführung auf dem Münsterplatz. (verfügbar unter Stand https://www.dominiksitter.com/post/leben-auf-der-strasse 23.02.2024)](screenshot-2024-02-23-095751.jpg)
 
 ### Der Verein
