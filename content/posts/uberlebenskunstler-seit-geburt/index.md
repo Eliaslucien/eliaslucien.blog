@@ -6,8 +6,6 @@ pinned = false
 image = "image.jpg"
 description = "Vom Adoptivvater geschlagen, vom Drogenkonsum geprägt und doch seine Wünsche erfüllt. Roger Meier (64) gibt Einblicke in sein bewegtes Leben.\n"
 +++
-
-
 {{<lead>}}\
 Vom Adoptivvater geschlagen, vom Drogenkonsum geprägt und doch seine Wünsche erfüllt. Roger Meier (64) gibt Einblicke in sein bewegtes Leben.
 
@@ -17,17 +15,11 @@ Elias Stamatiadis, Malou Gygax
 
 ![Roger Meier arbeitet heute als Surprise-Verkäufer und Stadtführer. (verfügbar unter https://surprise.ngo/ Stand 15.01.2024)](image.jpg)
 
-
-
 Es ist Freitagnachmittag. Im Tibits in Bern am Bahnhof ist viel los. Die Kaffeemaschine brummt, Geschirr klirrt und überall sind freudige Menschen am plaudern. Roger Meier steht vor dem Eingang und redet mit einem Bekannten. Als er uns entdeckt, kommt er auf uns zu. Der 64-jährige ist von mittlerer Statur, hat markante Gesichtszüge, die von einem ereignisreichen Leben zeugen. Besonders auffallend sind seine klaren, leuchtenden und wachen Augen. Er wirkt sympathisch und offen. Mit einem Milchkaffee erzählt er dann von seiner Geschichte.
-
-
 
 ### Wir fangen bei der Kindheit an: Wie hat deine Kindheit deinen Lebenslauf geprägt? Gab es etwas, das dich besonders geprägt hat?
 
 Meine Eltern haben mich im Spital gelassen und sind dann abgehauen. Keiner wollte mich und ich bin dann bei einer Pflegefamilie gelandet, die mich geschlagen hat. Also, meine Kindheit war geprägt von Gewalt, psychischer und körperlicher Gewalt. Ich habe niemandem vertraut und keinen an mich herangelassen. Wenn mich jemand berührt hat, bin ich zusammengezuckt. Man konnte mich nicht berühren. Das war so meine Kindheit.
-
-
 
 > “Meine Kindheit war geprägt von Gewalt, psychischer und körperlicher Gewalt”. 
 >
@@ -45,8 +37,6 @@ Nach der Lehre habe ich eine schlechte Entscheidung getroffen, die mich jetzt se
 
 Ja, hier in Bern kannte ich niemanden. Also ging ich zurück in die Drogenszene, auf der Münsterplattform. 30 Kiffer und 12 Junkies. Alle haben sich gekannt. Da war die Gasse noch nicht so verwahrlost. Ich hatte nie mehr etwas mit harten Drogen zu tun, ich war dann auf der Kiffergasse bis 1991. Ich war dann aber jedes Jahr noch während zwei, drei Monaten im Winter nach Witzwil ins Gefängnis, in die Wärme. Dort gab es medizinische Betreuung und alles, was man braucht. Ich nenne es immer das Hotel Gitterblick.
 
-
-
 ### Wie sah für dich der Alltag auf der Gasse aus?
 
 Ich habe die meiste Zeit, währenddem ich auf der Straße gelebt habe, gearbeitet. Ich habe auf dem Bau gearbeitet. Ich hatte mit Kollegen zusammen sogar eine eigene kleine Firma. Also sah mein Tagesablauf so aus wie der von allen anderen, ausser dass ich halt keine Wohnung hatte. Ich wohnte einfach auf der Strasse. Ich sah das aber gar nicht als Nachteil. Ich fühlte mich dadurch viel freier und konnte beispielsweise innerhalb von 24 Stunden nach Berlin arbeiten gehen. Zum Glück gibt es während den kalten Wintermonaten Möglichkeiten, drinnen übernachten zu  können und es etwas Warmes zu essen. Da ist das Essen sehr billig, wenn nicht sogar gratis. 
@@ -54,3 +44,13 @@ Ich habe die meiste Zeit, währenddem ich auf der Straße gelebt habe, gearbeite
 ### Nach vielen Jahren hast du es geschafft, von der Strasse zu kommen und hast jetzt auch deine eigene Wohnung. Hast du noch Träume, die du noch erleben willst?
 
 Die Träume die ich mal hatte, konnte ich mir erfüllen mit der Arbeit mit der Zeit als ich Obdachlos war, weil das Geld für die Wohnung konnte ich in meine Träume stecken. Ich habe immer davon geträumt, ein Formel 1 Auto zu fahren. Ich habe einen Lehrkurs in Le Castellet gemacht, eine ganze Woche lang. Ich habe mit der Formel 4 angefangen und am Sonntag bin ich Formel 1 gefahren. Es hat viel viel Geld gekostet, aber dies kann mir niemand nehmen. Ich bin mit einem Fallschirm gesprungen, wagte einen Bungee Jump und war am Meer. Ich habe die verrücktesten Sachen erlebt und ich muss mit 64 Jahren keinen Träumen mehr  hinterherrennen.
+
+
+
+{{<box>}}
+
+**Obdachlose in der Schweiz** 
+
+Der Bund schätzt, dass im Jahr 2022 schweizweit 2’200 Menschen von Obdachlosigkeit betroffen sind und etwa 8’000 von Wohnungsverlust bedroht werden. Hierbei gilt es aber zu beachten, dass man nur als obdachlos gilt, wenn man wirklich auf der Strasse schläft. Wenn man jedoch bei Kolleg*innen im Keller oder im Auto wohnt, gilt man offiziell nicht als obdachlos
+
+{{</box>}}
