@@ -14,6 +14,8 @@ In der heutigen Zeit stellt sich die Frage nach der weiblichen Identität mehr d
 
 Diese Debatte spiegelt sich auch im Roman *Helvetias Töchter* (2021) von Nadine A. Brügger wider. Das Buch erzählt die Geschichten von acht Frauen, die jeden Tag darum kämpfen, ihren eigenen Weg zu gehen und sich von der gesellschaftlichen Norm der Abhängigkeit von Männern zu befreien. Ein Blick auf die Geschichte von Hélène, einer der fiktiven Protagonistinnen, hilft dabei, diese Fragen zu beleuchten.
 
+![](https://media.s-bol.com/n79vP7m8mLg7/Dqkklp5/550x768.jpg)
+
 **Tradition als Hürde für die weibliche Selbstbestimmung**
 
 Hélènes Geschichte spielt zwischen 1846 und 1868, einer Zeit, in der traditionelle Geschlechterrollen fest in der Gesellschaft verankert waren. Schon als Kind ist sie eine Enttäuschung für ihre Eltern, die sich einen Sohn gewünscht hatten. Während ihre Brüder studieren dürfen, wird Hélène auf ihre Rolle als zukünftige Mutter vorbereitet. Denn für ihren Vater gilt: Frauen sollen Mütter werden, so war es schon immer und wird es auch immer bleiben.
